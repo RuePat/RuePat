@@ -18,7 +18,6 @@
 
 List of Projects ------------------------------
 
-
 1.	INTERN at Duke - Tracking retroreflectve filters in RGB,IR streams and pointclouds, applying stereo vision principles and ML for accurate 3D position estimation for TMS device(transcranial magnetic stimulation)
 2.	Neural Style Transfer using Deep Learning in PyTorch
 3.	Training YOLOv3 on a custom developed dataset (3 colored balls) using darknet framework for a haptic robotic arm.
@@ -31,6 +30,4 @@ List of Projects ------------------------------
 10.	Image Segmentation Using K-Means Clustering
 11.	Image Segmentation using SegNet, Random Forest and U-net on retinal OCT scans. 
 12.	Identifying Birds based on their calls using CNN – Differentiating between 5 species of Flycatchers, using Mel spectrograms.
-
-
 ------------------------------------------------
