@@ -6,12 +6,12 @@
 
 💻 My proficiency lies in Python, SQL and C/C++ programming languages, and I am experienced with popular ML/AI libraries like TensorFlow, PyTorch, and scikit-learn and in working with platforms like huggingface and TensorFlow Hub. I also possess skills to work with cloud platforms like AWS Sagemaker, Google Cloud, NVIDIA Jetson GPU – Dev Kit (external GPU setup), Version Control etc. 
 
+📚 I also have some work experience working at Pricewaterhouse Coopers (PwC) as a Tech consultant (in Salesforce) and working as a consultant for Duke Advanced Degree Consulting club for client trust for public land. Adept at establishing and maintaining positive relationships with senior leadership, cross-functional teams, vendors, and integrators. Excellent communicator with exceptional problem-solving, analytical, and decision-making skills with keen attention to detail. 
+
 🏆 In recognition of my achievements, I have received the following awards:
 1.	Dean's Research Fellowship Award (Duke University)
 2.	Identified as one of the brightest 104 Engineering Minds in India under ETCampusStars (Economic Times)- Third Edition 
 3.	Mercedes-Benz Scholarship MBRDI (Mercedes-Benz Research and Development India for consecutive 3 years
-
-📚 I also have some work experience working at Pricewaterhouse Coopers (PwC) as a Tech consultant (in Salesforce) and working as a consultant for Duke Advanced Degree Consulting club for client trust for public land. Adept at establishing and maintaining positive relationships with senior leadership, cross-functional teams, vendors, and integrators. Excellent communicator with exceptional problem-solving, analytical, and decision-making skills with keen attention to detail. 
 
 🌍I believe in continuous learning and seek opportunities to expand my knowledge and stay at the forefront of emerging trends. If you are looking for an enthusiastic and driven ML/AI professional, I would love to connect! Let's collaborate and create transformative solutions together!
 
