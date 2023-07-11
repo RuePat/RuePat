@@ -1,20 +1,10 @@
 ### Hi there 👋
 
-👋 I'm Rucha, a passionate and dedicated student with a strong background in machine learning and artificial intelligence. I am actively seeking new opportunities in the field to apply my expertise and contribute to cutting-edge projects.
+Curious | Ethusiastic | Quick Learner | Adaptable | Empathetic
 
-🎓 I am currently pursuing an M.S from Duke University where I gained a solid theoretical foundation and practical experience and developed a robust skill set encompassing machine learning algorithms, data analysis, natural language processing, image and video Processing and deep learning frameworks. Throughout my academic journey, I have worked on a diverse range of projects as listed below.
+Hello! I'm Rucha, a professional with expertise in machine learning, AI, and data analytics. I have a strong foundation in Algorithms, NLP, Computer Vision, Transfer learning and Deep Learning frameworks in addition to SolidWorks, ANSYS, CAD, ROS. Proficient in Python, SQL, and C/C++, I have hands-on experience with TensorFlow, PyTorch, Scikit-learn, Seaborn, OpenCV, Keras, Pandas, and cloud platforms like AWS Sagemaker. I've worked as a Tech Consultant at PwC and as a consultant and research analyst for DACC where I have demonstrated strong relationship-building skills in cross-functional team projects, having excelled in problem-solving, analytics, and decision-making. With a focus on continuous learning, I strive to stay at the forefront of emerging trends and technologies. I bring strong critical thinking, exellent communication and keen attention to detail to drive project success. Let's connect and create a brighter future through collaboration! 
 
-💻 My proficiency lies in Python, SQL and C/C++ programming languages, and I am experienced with popular ML/AI libraries like TensorFlow, PyTorch, and scikit-learn and in working with platforms like huggingface and TensorFlow Hub. I also possess skills to work with platforms like AWS Sagemaker, Google Cloud, NVIDIA Jetson GPU – Dev Kit (external GPU setup), Version Control etc. 
-
-📚 I also have some work experience working at Pricewaterhouse Coopers (PwC) as a Tech consultant (in Salesforce) and working as a consultant for Duke Advanced Degree Consulting club for client trust for public land. Adept at establishing and maintaining positive relationships with senior leadership, cross-functional teams, vendors, and integrators. Excellent communicator with exceptional problem-solving, analytical, and decision-making skills with keen attention to detail. 
-
-🏆 In recognition of my achievements, I have received the following awards:
-1.	Dean's Research Fellowship Award (Duke University)
-2.	Identified as one of the brightest 104 Engineering Minds in India under ETCampusStars (Economic Times)- Third Edition 
-3.	Mercedes-Benz Scholarship MBRDI (Mercedes-Benz Research and Development India for consecutive 3 years
-
-🌍I believe in continuous learning and seek opportunities to expand my knowledge and stay at the forefront of emerging trends. If you are looking for an enthusiastic and driven ML/AI professional, I would love to connect! Let's collaborate and create transformative solutions together!
-
+Dean's Research Fellowship Award (Duke University) | Identified as one of the brightest 104 Engineering Minds in India under ETCampusStars (Economic Times)- Third Edition | Mercedes-Benz Scholarship Recipient from MBRDI (Mercedes-Benz Research and Development India |
 
 List of Projects ------------------------------
 
