@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Duke 2023 - M.S Student
+
 Curious | Ethusiastic | Quick Learner | Adaptable | Empathetic
 
 Hello! I'm Rucha, a professional with expertise in machine learning, AI, and data analytics. I have a strong foundation in Algorithms, NLP, Computer Vision, Transfer learning and Deep Learning frameworks in addition to SolidWorks, ANSYS, CAD, ROS. Proficient in Python, SQL, and C/C++, I have hands-on experience with TensorFlow, PyTorch, Scikit-learn, Seaborn, OpenCV, Keras, Pandas, and cloud platforms like AWS Sagemaker. I've worked as a Tech Consultant at PwC and as a consultant and research analyst for DACC where I have demonstrated strong relationship-building skills in cross-functional team projects, having excelled in problem-solving, analytics, and decision-making. With a focus on continuous learning, I strive to stay at the forefront of emerging trends and technologies. I bring strong critical thinking, exellent communication and keen attention to detail to drive project success. Let's connect and create a brighter future through collaboration! 
