@@ -10,6 +10,7 @@ Dean's Research Fellowship Award (Duke University) | Identified as one of the br
 
 List of Projects ------------------------------
 
+**In AI and ML -**
 1.	INTERN at Duke - Tracking retroreflectve filters in RGB,IR streams and pointclouds, applying stereo vision principles and ML for accurate 3D position estimation for TMS device(transcranial magnetic stimulation)
 2.	Neural Style Transfer using Deep Learning in PyTorch
 3.	Training YOLOv3 on a custom developed dataset (3 colored balls) using darknet framework for a haptic robotic arm.
@@ -21,5 +22,15 @@ List of Projects ------------------------------
 9.	An Ethics Discussion on the Netflix Prize Dataset and presentation
 10.	Image Segmentation Using K-Means Clustering
 11.	Image Segmentation using SegNet, Random Forest and U-net on retinal OCT scans. 
-12.	Identifying Birds based on their calls using CNN – Differentiating between 5 species of Flycatchers, using Mel spectrograms.
+12.	Identifying Birds based on their calls (Audio) using CNN – Differentiating between 5 species of Flycatchers, using Mel spectrograms, Efficientnet- B0.
+13.	Implementations of Regression, Decision trees, Random Forests, SVMs, Time Series, Markov Models, Statistical Modelling ETC
+
+**In Robotics**
+1. SLAM implementation using ROS libraries
+2. Design of an Custom Bamboo Recumbent Bicycle Frame- Sponsored by BAMBOOCHI BICYCLES, India - Created a unique methodology
+3. Design and Manufacturing of an autonomous Quadruped robot which can jump on obstables - ROBOCON 2019
+4. Design and Manufacturing of a remote controlled wheeled robot, with a loading and throwing mechanism for a non-symmetrical object - ROBOCON 2019
+5. Design and Manufacturing of an all- Terrain vehicle (Part of Chassis and Suspension design team )
+
+
 ------------------------------------------------
